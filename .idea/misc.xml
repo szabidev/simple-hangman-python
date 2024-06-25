@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Poetry (hangman-python)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Poetry (hangman-python)" project-jdk-type="Python SDK" />
+</project>
